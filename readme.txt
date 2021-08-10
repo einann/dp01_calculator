@@ -1,0 +1,1 @@
+Simple Javascript calculator application which uses string functions to calculate.

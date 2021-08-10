@@ -1,0 +1,16 @@
+.col-lg-1 {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid crimson;
+}
+
+input {
+    padding: 10px;
+    border: 1px solid crimson;
+}
+
+button {
+    padding: 9px;
+    width: 100%;
+    border: 1px solid #ddd;
+}
